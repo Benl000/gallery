@@ -194,7 +194,7 @@ header.masthead {
     margin-bottom: 40px;
     text-align: center;
     color:  #f8f9fa;
-    background-image: url("/img/portfolio/diner.jpeg");
+    background-image: url("/img/portfolio/diner.jpg");
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
@@ -614,8 +614,6 @@ ul.social-buttons li a {
     font-size: 20px;
     line-height: 40px;
     display: block;
-    width: 40px;
-    height: 40px;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     transition: all 0.3s;
